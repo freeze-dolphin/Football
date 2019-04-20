@@ -1,0 +1,11 @@
+version: 1.0
+main: me.Freeze_Dolphin.football.Football
+name: Football
+author: Freeze_Dolphin
+
+depend: [CS-CoreLib]
+
+commands:
+   gfb:
+      description: 获取头颅足球
+      usage: /<command>
